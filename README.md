@@ -44,4 +44,17 @@ confidence intervals, and regression modeling.
 - Linear regression
 - R-squared evaluation
 
-## 📁 Repository Structure
+## ✅ Key Results
+- Strong correlation observed between business metrics
+- Statistically significant hypothesis test results
+- Regression model explains a significant portion of variance
+
+## 🚀 How to Run
+1. Upload datasets to Google Colab
+2. Open `statistical_analysis.ipynb`
+3. Run all cells sequentially
+
+## 📌 Conclusion
+This project demonstrates how statistical techniques can drive
+data-driven business decisions effectively.
+
